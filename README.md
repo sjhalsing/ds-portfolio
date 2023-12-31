@@ -1,1 +1,6 @@
-# ds-portfolio
+# Data Science Graduate Student
+
+### Projects
+R Project
+
+Python Project
