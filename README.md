@@ -1,4 +1,4 @@
-# Data Science Graduate Student
+# Data Science Portfolio
 
 ### Projects
 R Project
