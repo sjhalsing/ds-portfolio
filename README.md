@@ -21,6 +21,6 @@ I performed statistical analysis using Python to find the top 5 cities where an 
 
 Please see the links below for my analysis and presentation.
 
-[Analysis](https://github.com/sjhalsing/ds-portfolio/blob/ed2cb351b786a1f283354a8c78f9159e3f97504a/Stephanie%20Halsing.Module08PythonProject.ipynb)
+[Analysis](https://github.com/sjhalsing/ds-portfolio/blob/c55879c892dcbf9781d32dec045d2a16aa9c0f21/Stephanie%20Halsing.Module08PythonProject.ipynb)
 
-[Presentation](https://github.com/sjhalsing/ds-portfolio/blob/ed2cb351b786a1f283354a8c78f9159e3f97504a/Stephanie%20Halsing.Module08PythonProject.pptx)
+[Presentation](https://github.com/sjhalsing/ds-portfolio/blob/c55879c892dcbf9781d32dec045d2a16aa9c0f21/Stephanie%20Halsing.Module08PythonProject.pptx)
