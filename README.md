@@ -1,5 +1,5 @@
 # Data Science Portfolio
 
-## R Project: Analysis of the Future Data Science Team
+### R Project: Analysis of the Future Data Science Team
 
-## Python Project: Top 5 Cities for a Data Scientist
+### Python Project: Top 5 Cities for a Data Scientist
